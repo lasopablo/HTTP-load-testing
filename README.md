@@ -58,6 +58,17 @@ cd http_load_tester
 
    Open your browser and navigate to `http://localhost:3000`.
 
+
+#### Example Usage
+
+Here are some examples of how the application looks and works.
+
+1. Initial Interface:
+![Initial Interface](https://your_image_host/GUI.png)
+
+2. After Running a Test:
+![Performance Graph](https://your_image_host/graph.png)
+
 ### Running Locally
 
 If you prefer to run the project locally without Docker, follow these steps:
