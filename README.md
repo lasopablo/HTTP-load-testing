@@ -61,7 +61,7 @@ cd http_load_tester
 
 #### Example Usage
 
-Here are some examples of how the application looks and works.
+Here are some examples of how the application looks and works. Note that "dark mode" was on.
 
 1. Initial Interface:
 ![Initial Interface](imgs/GUI.png)
