@@ -49,3 +49,68 @@ cd [http_load_tester](https://github.com/lasopablo/HTTP-load-testing.git)
          - "3000:80"
 
    ```
+
+3. **Run Docker Compose to start the services:**
+   ```sh
+   docker-compose up
+   ```
+
+4. **Access the frontend interface:**
+
+   Open your browser and navigate to `http://localhost:3000`.
+
+### Running Locally
+
+If you prefer to run the project locally without Docker, follow these steps:
+
+1. **Backend Setup:**
+
+   - Navigate to the `backend` directory:
+
+     ```sh
+     cd backend
+     ```
+
+   - Create a virtual environment and activate it:
+
+     ```sh
+     python -m venv venv
+     source venv/bin/activate
+     ```
+
+   - Install the required packages:
+
+     ```sh
+     pip install fastapi uvicorn requests
+     ```
+
+   - Run the backend server:
+
+     ```sh
+     uvicorn main:app --host 0.0.0.0 --port 8000
+     ```
+
+2. **Frontend Setup:**
+
+   - Navigate to the `frontend` directory:
+
+     ```sh
+     cd frontend
+     ```
+
+   - Install the required packages:
+
+     ```sh
+     npm install
+     ```
+
+   - Start the frontend server:
+
+     ```sh
+     npm start
+     ```
+
+   - Open your browser and navigate to `http://localhost:3000`.
+
+
+
