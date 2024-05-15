@@ -2,6 +2,9 @@
 
 This project is a general-purpose HTTP load-testing and benchmarking tool. It includes a frontend interface for visualizing load test results and a backend API for conducting the load tests.
 
+> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://drive.google.com/file/d/1wyqrqlEL3l2orlH2hSgXkAhpPkh2Zyrz/view?usp=sharing)
+
+
 ## Features
 
 - Reports latencies and error rates
