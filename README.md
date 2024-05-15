@@ -22,9 +22,8 @@ This project is a general-purpose HTTP load-testing and benchmarking tool. It in
 git clone <repository-url>
 cd [http_load_tester](https://github.com/lasopablo/HTTP-load-testing.git)
 ```
-### Running with Docker
 
-### Running with Docker
+### Running with Docker (recommended)
 
 1. **Pull the Docker images:**
    
