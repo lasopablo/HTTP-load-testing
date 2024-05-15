@@ -64,10 +64,10 @@ cd http_load_tester
 Here are some examples of how the application looks and works.
 
 1. Initial Interface:
-![Initial Interface](https://your_image_host/GUI.png)
+![Initial Interface](imgs/GUI.png)
 
 2. After Running a Test:
-![Performance Graph](https://your_image_host/graph.png)
+![Performance Graph](imgs/graph.png)
 
 ### Running Locally
 
