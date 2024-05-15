@@ -24,9 +24,28 @@ cd [http_load_tester](https://github.com/lasopablo/HTTP-load-testing.git)
 ```
 ### Running with Docker
 
-1. **Pull the Docker images:**
+### Running with Docker
 
+1. **Pull the Docker images:**
+   
    ```sh
    docker pull pablaso/http_load_tester_frontend:frontend_ready
    docker pull pablaso/http_load_tester_backend:frontend_ready
+   ```
+
+2. **Create a docker-compose.yml file in the project root directory with the following content:**
+   ```yaml
+   version: '3.8'
+   
+   services:
+     backend:
+       image: pablaso/http_load_tester_backend:frontend_ready
+       ports:
+         - "8000:8000"
+   
+     frontend:
+       image: pablaso/http_load_tester_frontend:frontend_ready
+       ports:
+         - "3000:80"
+
    ```
