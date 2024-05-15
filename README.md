@@ -22,3 +22,11 @@ This project is a general-purpose HTTP load-testing and benchmarking tool. It in
 git clone <repository-url>
 cd [http_load_tester](https://github.com/lasopablo/HTTP-load-testing.git)
 ```
+### Running with Docker
+
+1. **Pull the Docker images:**
+
+   ```sh
+   docker pull pablaso/http_load_tester_frontend:frontend_ready
+   docker pull pablaso/http_load_tester_backend:frontend_ready
+   ```
