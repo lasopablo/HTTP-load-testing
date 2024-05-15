@@ -20,4 +20,5 @@ This project is a general-purpose HTTP load-testing and benchmarking tool. It in
 
 ```sh
 git clone <repository-url>
-cd http_load_tester
+cd [http_load_tester](https://github.com/lasopablo/HTTP-load-testing.git)
+```
