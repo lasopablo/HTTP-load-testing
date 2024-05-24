@@ -2,7 +2,7 @@
 
 This project is a general-purpose HTTP load-testing and benchmarking tool. It includes a frontend interface for visualizing load test results and a backend API for conducting the load tests.
 
-> ✔️: **Demo video available**: A demo video and installation guide is available to help you set up and use. Watch it here: [Installation Video Guide](https://youtu.be/Oeo9TmnhqRU)
+> ✔️: **Demo video available**: A demo video and installation guide is available to help you set up and use. Watch it here: [Demo and Video Guide](https://youtu.be/Oeo9TmnhqRU)
 
 
 
