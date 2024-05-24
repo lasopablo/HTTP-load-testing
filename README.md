@@ -2,7 +2,9 @@
 
 This project is a general-purpose HTTP load-testing and benchmarking tool. It includes a frontend interface for visualizing load test results and a backend API for conducting the load tests.
 
-> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://drive.google.com/file/d/1wyqrqlEL3l2orlH2hSgXkAhpPkh2Zyrz/view?usp=sharing)
+> ✔️: **Demo video available**: A demo video and installation guide is available to help you set up and use. Watch it here: [Installation Video Guide](https://youtu.be/Oeo9TmnhqRU)
+
+
 
 
 ## Features
@@ -27,6 +29,8 @@ cd http_load_tester
 ```
 
 ### Running with Docker (recommended)
+
+> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://youtu.be/Oeo9TmnhqRU)
 
 1. **Pull the Docker images:**
    
