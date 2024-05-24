@@ -4,8 +4,6 @@ This project is a general-purpose HTTP load-testing and benchmarking tool. It in
 
 > ✔️: **Demo video available**: A demo video and installation guide is available to help you set up and use. Watch it here: [Demo and Video Guide](https://youtu.be/Oeo9TmnhqRU)
 
-[video](https://youtu.be/Oeo9TmnhqRU)
-
 
 ## Features
 
